@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 teszt - 2
 anyátok (sajt)
+=======
+teszt - 3
+>>>>>>> c5c02f5cf854f9c2b7ba8cc6faf16be4e6fdf95d
